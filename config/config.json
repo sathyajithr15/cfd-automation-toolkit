@@ -1,0 +1,5 @@
+{
+  "case_name": "baseline_case",
+  "mesh_size": 0.01,
+  "solver": "steady"
+}
