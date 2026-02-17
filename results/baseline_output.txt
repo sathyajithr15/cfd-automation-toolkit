@@ -1,0 +1,5 @@
+Case: baseline
+Mesh size: 0.01
+Solver: steady
+Timestamp: 2026-02-17 22:33:02.893828
+Status: SUCCESS

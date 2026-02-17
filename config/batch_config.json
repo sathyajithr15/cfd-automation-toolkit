@@ -1,0 +1,14 @@
+{
+  "simulations": [
+    {
+      "case_name": "baseline",
+      "mesh_size": 0.01,
+      "solver": "steady"
+    },
+    {
+      "case_name": "refined",
+      "mesh_size": 0.005,
+      "solver": "transient"
+    }
+  ]
+}

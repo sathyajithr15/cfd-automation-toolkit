@@ -1,0 +1,6 @@
+2026-02-17 22:33:02,892 - INFO - Starting CFD Batch Tool
+2026-02-17 22:33:02,893 - INFO - Running simulation with config: {'case_name': 'baseline', 'mesh_size': 0.01, 'solver': 'steady'}
+2026-02-17 22:33:02,894 - INFO - Simulation completed and results saved.
+2026-02-17 22:33:02,894 - INFO - Running simulation with config: {'case_name': 'refined', 'mesh_size': 0.005, 'solver': 'transient'}
+2026-02-17 22:33:02,895 - INFO - Simulation completed and results saved.
+2026-02-17 22:33:02,895 - INFO - Batch execution completed.

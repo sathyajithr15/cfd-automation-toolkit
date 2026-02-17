@@ -1,0 +1,5 @@
+Case: refined
+Mesh size: 0.005
+Solver: transient
+Timestamp: 2026-02-17 22:06:25.452306
+Status: SUCCESS
